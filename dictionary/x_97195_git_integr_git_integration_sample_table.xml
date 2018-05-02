@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<database>
+    <element extends="task" label="GIT Integration Sample Table" max_length="40" name="x_97195_git_integr_git_integration_sample_table" type="collection"/>
+</database>

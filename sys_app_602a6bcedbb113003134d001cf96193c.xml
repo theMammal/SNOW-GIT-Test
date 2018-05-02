@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update table="sys_app">
+    <sys_app action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <enforce_license>log</enforce_license>
+        <js_level>helsinki_es5</js_level>
+        <licensable>true</licensable>
+        <license_model>none</license_model>
+        <logo/>
+        <menu display_value="GIT Integration Sample">fc2a2702dbf113003134d001cf9619b2</menu>
+        <name>GIT Integration Sample</name>
+        <private>false</private>
+        <restrict_table_access>false</restrict_table_access>
+        <runtime_access_tracking>permissive</runtime_access_tracking>
+        <scope>x_97195_git_integr</scope>
+        <scoped_administration>false</scoped_administration>
+        <short_description/>
+        <source>x_97195_git_integr</source>
+        <store_correlation_id/>
+        <store_url/>
+        <sys_class_name>sys_app</sys_class_name>
+        <sys_code/>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2018-05-02 20:25:41</sys_created_on>
+        <sys_id>602a6bcedbb113003134d001cf96193c</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2018-05-02 20:25:41</sys_updated_on>
+        <template/>
+        <trackable>true</trackable>
+        <user_role display_value="x_97195_git_integr.user" name="x_97195_git_integr.user">f02a2702dbf113003134d001cf9619b7</user_role>
+        <vendor/>
+        <vendor_prefix/>
+        <version>1.0.0</version>
+    </sys_app>
+</record_update>

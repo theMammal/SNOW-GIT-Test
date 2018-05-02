@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update table="sys_security_acl_role">
+    <sys_security_acl_role action="INSERT_OR_UPDATE">
+        <sys_class_name>sys_security_acl_role</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2018-05-02 20:25:41</sys_created_on>
+        <sys_id>742a6702dbf113003134d001cf9619de</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_97195_git_integr_git_integration_sample_table.x_97195_git_integr.user</sys_name>
+        <sys_package display_value="GIT Integration Sample" source="x_97195_git_integr">602a6bcedbb113003134d001cf96193c</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="GIT Integration Sample">602a6bcedbb113003134d001cf96193c</sys_scope>
+        <sys_security_acl display_value="x_97195_git_integr_git_integration_sample_table">7c2a6702dbf113003134d001cf9619d9</sys_security_acl>
+        <sys_update_name>sys_security_acl_role_742a6702dbf113003134d001cf9619de</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2018-05-02 20:25:41</sys_updated_on>
+        <sys_user_role display_value="x_97195_git_integr.user" name="x_97195_git_integr.user">f02a2702dbf113003134d001cf9619b7</sys_user_role>
+        <transaction_id/>
+    </sys_security_acl_role>
+</record_update>
